@@ -1,0 +1,28 @@
+_repo: Pierre-and-His-People-Tales-of-the-Far-North-Volume-2_6175
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcsh 'Short stories, Canadian'
+tableOfContents: A prairie vagabond -- She of the Triple Chevron -- Three outlaws.
+title: 'Pierre and His People: Tales of the Far North. Volume 2.'
+url: http://www.gutenberg.org/ebooks/6175
